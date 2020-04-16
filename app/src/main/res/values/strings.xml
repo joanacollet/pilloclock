@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Pill o clock</string>
     <string name="men_principal">Menú principal</string>
+    <string name="hola">hola</string>
 </resources>
